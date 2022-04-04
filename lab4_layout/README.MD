@@ -25,3 +25,10 @@ kemudian buka browser untuk melihat hasilnya
 
 ![pict4.png](../sc_pratikum/pict4.png)
 
+2. Mengatur Clearfix Element
+
+Tambahkan element div lainnya seteleah div3 seperti berikut
+
+![pict5.png](../sc_pratikum/pict5.png)
+
+
