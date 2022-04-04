@@ -27,8 +27,13 @@ kemudian buka browser untuk melihat hasilnya
 
 2. Mengatur Clearfix Element
 
-Tambahkan element div lainnya seteleah div3 seperti berikut
+Tambahkan element div lainnya seteleah div3 seperti berikut,Kemudian atur property clear pada CSS, seperti berikut
 
 ![pict5.png](../sc_pratikum/pict5.png)
+
+kemudian disave dan refrseh kembali di browser
+
+![pict6.png](../sc_pratikum/pict6.png)
+
 
 
